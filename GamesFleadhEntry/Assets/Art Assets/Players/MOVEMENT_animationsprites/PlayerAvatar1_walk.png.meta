@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 613a2c9c8af8fda4ca5de57e27e75581
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7169051823983331
+    second: PlayerAvatar1_walk_0
+  - first:
+      213: -1904023788724489128
+    second: PlayerAvatar1_walk_1
+  - first:
+      213: 5172527507815559767
+    second: PlayerAvatar1_walk_2
+  - first:
+      213: 9029454194875909576
+    second: PlayerAvatar1_walk_3
+  - first:
+      213: 1154190059460131159
+    second: PlayerAvatar1_walk_4
+  - first:
+      213: -2609950608612659792
+    second: PlayerAvatar1_walk_5
+  - first:
+      213: 5034987598993967919
+    second: PlayerAvatar1_walk_6
+  - first:
+      213: -3386210547493816421
+    second: PlayerAvatar1_walk_7
+  - first:
+      213: -3840160526164272716
+    second: PlayerAvatar1_walk_8
+  - first:
+      213: -2401142545160218210
+    second: PlayerAvatar1_walk_9
+  - first:
+      213: -5988896952400433118
+    second: PlayerAvatar1_walk_10
+  - first:
+      213: 5342517494001466423
+    second: PlayerAvatar1_walk_11
+  - first:
+      213: 3586375927357678381
+    second: PlayerAvatar1_walk_12
+  - first:
+      213: 4356922819519317245
+    second: PlayerAvatar1_walk_13
+  - first:
+      213: 5024535770939891758
+    second: PlayerAvatar1_walk_14
+  - first:
+      213: -1818346769013463576
+    second: PlayerAvatar1_walk_15
+  - first:
+      213: -784654430770978624
+    second: PlayerAvatar1_walk_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 188
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15b7ac09c786eff0800000000000000
+      internalID: -7169051823983331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2
+        width: 187
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854fe2db37c8395e0800000000000000
+      internalID: -1904023788724489128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 181
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7527846fc5288c740800000000000000
+      internalID: 5172527507815559767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2
+        width: 188
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54d3900c01f4d70800000000000000
+      internalID: 9029454194875909576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1
+        width: 181
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75978617eb1840010800000000000000
+      internalID: 1154190059460131159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 9
+        width: 179
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde354efb797cbd0800000000000000
+      internalID: -2609950608612659792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_6
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 15
+        width: 179
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b48867b8edfd540800000000000000
+      internalID: 5034987598993967919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_7
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 7
+        width: 188
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9733fda273c101d0800000000000000
+      internalID: -3386210547493816421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_8
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 9
+        width: 180
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b95085f85205bac0800000000000000
+      internalID: -3840160526164272716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_9
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 4
+        width: 181
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99d5a4b39d6daed0800000000000000
+      internalID: -2401142545160218210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_10
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 10
+        width: 176
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b0cbc3f923eca0800000000000000
+      internalID: -5988896952400433118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_11
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 10
+        width: 187
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c744cda5f642a40800000000000000
+      internalID: 5342517494001466423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_12
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 9
+        width: 190
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23aa2d87ed55c130800000000000000
+      internalID: 3586375927357678381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_13
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 10
+        width: 188
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df40e3b6836e67c30800000000000000
+      internalID: 4356922819519317245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_14
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 4
+        width: 188
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ad1c99acbab540800000000000000
+      internalID: 5024535770939891758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_15
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 2
+        width: 180
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e529726f3fe3c6e0800000000000000
+      internalID: -1818346769013463576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerAvatar1_walk_16
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 20
+        width: 187
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a576d3f85c15f0800000000000000
+      internalID: -784654430770978624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
